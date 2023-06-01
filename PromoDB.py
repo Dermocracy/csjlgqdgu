@@ -1,0 +1,1 @@
+promoSet={'sygamin', 'bratish', 'karinas', 'buzena1', 'mama001', 'elena04', 'superma', 'six0666', 'seven07', 'doguild', 'dasha27', 'lena111', 'freemon', 'lisenok', 'blogger', 'caxapok', 'dogdrug'}

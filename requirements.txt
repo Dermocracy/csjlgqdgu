@@ -1,0 +1,5 @@
+Pyrogram==2.0.26
+requests==2.27.1
+tabulate==0.8.9
+TgCrypto
+apscheduler
